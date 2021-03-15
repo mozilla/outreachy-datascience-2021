@@ -4,7 +4,7 @@
 
 This is the main repo used for prospective 2019 Outreachy interns to contribute Mozilla Data Science team projects.
 
-It covers the two project:
+It covers the project:
 
 * [Identifying Usage Personalities in Firefox](https://www.outreachy.org/outreachy-may-2021-internship-round/communities/firefox-data-team/#identifying-usage-personalities-in-firefox)
 
