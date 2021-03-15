@@ -1,4 +1,4 @@
-# outreachy-datascience-2019
+# outreachy-datascience-2021
 
 [![Gitter](https://badges.gitter.im/mozilla-datascience-outreach/community.svg)](https://gitter.im/mozilla-datascience-outreach/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -18,7 +18,7 @@ This folder contains the file `dataset.csv` and `data_description.txt`. Please r
 
 # Submission
 
-* Please submit your final notebook/script by email to one of the mentors, and include which project you are interested in working on ("Improve understanding of Firefox growth metrics" or "Finding Representative Users of Prerelease Firefox")
+* Please submit your final notebook/script by email to one of the mentors.
 
 
 # Additional Information:
