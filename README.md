@@ -2,7 +2,7 @@
 
 [![Gitter](https://badges.gitter.im/mozilla-datascience-outreach/community.svg)](https://gitter.im/mozilla-datascience-outreach/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is the main repo used for prospective 2019 Outreachy interns to contribute Mozilla Data Science team projects.
+This is the main repo used for prospective 2021 Outreachy interns to contribute Mozilla Data team projects.
 
 It covers the project:
 
