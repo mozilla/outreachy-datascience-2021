@@ -1,4 +1,4 @@
-# outreachy-datascience-2019
+# outreachy-datascience-2021
 
 [![Gitter](https://badges.gitter.im/mozilla-datascience-outreach/community.svg)](https://gitter.im/mozilla-datascience-outreach/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -17,8 +17,7 @@ This folder describes the 2nd contribution task. Please complete the tasks in `i
      - Is there a subset of the data that the model performs better on?
 
 # Submission
-* Please submit your final notebook/script by email to one of the mentors, and include which project you are interested in working on ("Improve understanding of Firefox growth metrics" or "Finding Representative Users of Prerelease Firefox")
-
+* Please submit your final notebook/script by email to one of the mentors.
 # Additional Information:
 * Visualizations make the world a better place! Use them liberally. 
 * Show your code as much as possible.
