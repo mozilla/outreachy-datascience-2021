@@ -20,7 +20,7 @@ The subsequent contribution step is described in `2nd_contribution`.
 
 # Submission
   * Deadline for `initial_contribution` submissions are April 15th, 2021. 
-  * Deadline for `2nd_contribution` submissions are April 30th, 2021.
+  * Deadline for `2nd_contribution` submissions are April 22nd, 2021.
   * Please submit your final notebook/script by email to one of the mentors.
 
 Please feel free to ask any questions you have on [Gitter](https://gitter.im/mozilla-datascience-outreach/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link). 
